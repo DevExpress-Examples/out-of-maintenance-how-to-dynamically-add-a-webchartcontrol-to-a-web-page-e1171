@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/WebChartRuntime/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebChartRuntime/Default.aspx.vb))
+* [Web.config](./CS/WebChartRuntime/Web.config) (VB: [Web.config](./VB/WebChartRuntime/Web.config))
+<!-- default file list end -->
 # How to dynamically add a WebChartControl to a web page
 
 
